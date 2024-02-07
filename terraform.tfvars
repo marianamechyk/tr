@@ -1,0 +1,11 @@
+account        = "enter your data"
+password       = "enter your data"
+username       = "marianamechyk"
+warehouse_name = "test_warehouse1"
+database_name  = "test_database1"
+table_name     = "test_table1"
+role_name      = "role1"
+schema_name    = "test_schema1"
+
+snowflake_region = "eu-north-1"
+snowflake_role   = "accountadmin"
